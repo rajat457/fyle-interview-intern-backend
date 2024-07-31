@@ -27,3 +27,5 @@ pytest --cov=core --cov-report=html
 ![image](https://github.com/user-attachments/assets/9a60958b-9172-4b19-b649-df7b8b5de139)
 
 ![image](https://github.com/user-attachments/assets/af083b13-815f-40b9-b8ab-ad2a10659968)
+
+![image](https://github.com/user-attachments/assets/35804b2e-3288-45a7-a6f3-c3c6a805b444)
