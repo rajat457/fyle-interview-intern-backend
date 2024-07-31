@@ -24,3 +24,4 @@ pytest -vvv -s tests/
 # for test coverage report
 pytest --cov=core --cov-report=html
 ```
+![alt text]("C:\Users\rajat\OneDrive\Pictures\Screenshots\Screenshot 2024-07-31 154505.png")
